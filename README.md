@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 -->
 
 ## My project
-[Weather App](https://weatherappmirko.netlify.app/)
 
+- [Weather App](https://weatherappmirko.netlify.app/)
+- [Netflix App](https://netflixbootsrap.netlify.app/)
   
 ## 📫 How to reach me
 
@@ -29,6 +30,7 @@ Here are some ideas to get you started:
 - 📫 Email: mirko.abozzi@gmail.com
 
 ##
+
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -43,7 +45,6 @@ Here are some ideas to get you started:
 </div>
 
 ## Git Stats
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=mirkoabozzi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="stats" width="100%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirkoabozzi&theme=vue-dark&hide_border=true" alt="streak" width="100%"/>
