@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ## My project
 
 - [Weather App](https://weatherappmirko.netlify.app/)
-- [Netflix App](https://netflixbootsrap.netlify.app/)
   
 ## How to reach me
 
