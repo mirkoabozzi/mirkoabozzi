@@ -25,7 +25,8 @@ Here are some ideas to get you started:
   
 ## How to reach me
 
-- 👨🏻‍💻 Connect with me on [LinkedIn]( https://www.linkedin.com/in/mirko-abozzi/)
+- 👨🏻‍💻 Connect with me on: <a href="https://www.linkedin.com/in/mirko-abozzi/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkdin-logo" height="30" width="30"/></a>
+
 - 📫 Email: mirko.abozzi@gmail.com
 
 ##
