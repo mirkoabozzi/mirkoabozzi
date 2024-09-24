@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently studyng to become a Full-Stack Web Developer
+- 🌱 I’m a Junior Full-Stack Web Developer
 
 <!--
 **mirkoabozzi/mirkoabozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
