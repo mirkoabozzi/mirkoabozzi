@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
 </div>
-
+<!--
 ## Git Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=mirkoabozzi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="stats" width="100%"/>
@@ -58,3 +58,4 @@ Here are some ideas to get you started:
 
 
 ![](https://komarev.com/ghpvc/?username=mirkoabozzi)
+-->
