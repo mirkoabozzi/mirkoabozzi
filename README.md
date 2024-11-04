@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ## My project
 
+- [Abozzi Market](https://abozzimarket.netlify.app/)
 - [Weather App](https://weatherappmirko.netlify.app/)
   
 ## How to reach me
@@ -49,6 +50,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
 </div>
+
 <!--
 ## Git Stats
 
