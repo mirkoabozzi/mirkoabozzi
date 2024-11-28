@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ![mirkoabozzi's Stats](https://github-readme-stats.vercel.app/api?username=mirkoabozzi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![mirkoabozzi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirkoabozzi&theme=vue-dark&hide_border=true)
 ![mirkoabozzi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirkoabozzi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
 -->
 
 ## My project
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" alt="css3" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
