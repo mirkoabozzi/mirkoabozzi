@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 - [Abozzi Market](https://abozzimarket.netlify.app/)
 - [Weather App](https://weatherappmirko.netlify.app/)
+- [Portfolio](https://mirkofullstackdev.netlify.app/)
   
 ## How to reach me
 
